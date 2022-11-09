@@ -1,0 +1,43 @@
+                         Project name       :www.pratibhasecondaryschool.com/
+ 
+                  	About Project :
+
+                        >>>It is a website which will give you all the information regarding courses,extra curriculam activities
+                        and  what else amenities available in this school. 
+ 
+                   	Structure :
+                        1...Home Page
+
+                        >>All social network icons in header
+                        >>Navigation bar   
+                        >>Login , about us ,gallery,courses and contact us button
+                        >>Carousel   
+                         >>>Grid column and row use in footer
+
+                        2...Login button
+                        >>>Forget password button
+                        >>>register link button
+
+                        3....Courses button
+                        >>>Horizontal Card  for different courses available here
+
+                        4...Contact us button
+                        >>>location 
+                        >>>checkbox for enquiry purpose
+
+                        5....Gallery button
+                        >>>photos related to schools activities and etcetra
+
+                        ****   Technologies used:
+                        1..HTML
+                        2..CSS
+                        3..BOOTSTRAP
+
+
+
+
+        
+
+
+       
+
